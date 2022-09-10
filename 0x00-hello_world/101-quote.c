@@ -3,7 +3,7 @@
 /**
  * main - prints the standard error sandwiched around the standard output
  *
- * Returb:return 1
+ * Return:returns 1
  */
 
 int main(void)
