@@ -1,1 +1,1 @@
-print alphabelts
+alphABET
