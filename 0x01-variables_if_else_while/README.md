@@ -1,1 +1,1 @@
-Hexadecimal
+patience and persistence
