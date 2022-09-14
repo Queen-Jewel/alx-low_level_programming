@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_sign -> checks if int is 0, positive or negative
+ * print_sign - function to check for the sign of a number
  *  @n: it is an int that we'll use for the argument for the function
  *  Return: 0
  */
@@ -20,7 +20,7 @@ int print_sign(int n)
 	}
 	else
 	{
-		putchar('0');
+		_putchar('0');
 		return (0);
 	}
 }
