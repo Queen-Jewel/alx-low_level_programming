@@ -6,4 +6,5 @@ a function that computes the absolute value of an integer
 a function that prints the last digit of a number.
 a function that prints every minute of the day 
 a function that prints the 9 times table, starting with 0.
+a function that adds two integers and returns the result.
 
