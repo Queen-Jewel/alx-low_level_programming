@@ -1,19 +1,20 @@
 #include "main.h"
 
 /**
- * main - print the  lowercase alphabelts
+ * print_alphabet -> prints the lowercase alphabets
  *
- * print_alphabelt -> print the lowercase alphabelts
- *
- * Return: Always 0 (Success)
+ * Return: Always 0
  */
+
 void print_alphabet(void)
 {
 	int j;
 
-	for (j = 'a' ; j <= 'z' ; j++)
+	for (j = 97 ; j <= 122 ; j++)
 	{
 		_putchar(j);
 	}
 	_putchar('\n');
+	
+	return (0);
 }
