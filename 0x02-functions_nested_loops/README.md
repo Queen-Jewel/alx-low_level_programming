@@ -1,1 +1,1 @@
-putchar
+print alphabelt in lowercase
