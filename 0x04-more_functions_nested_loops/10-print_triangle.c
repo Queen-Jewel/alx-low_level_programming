@@ -23,17 +23,19 @@ void print_triangle(int size)
 			{
 				a = 0;
 				while (a < size - i)
+				{
 					_putchar(' ');
-				a++;
+					a++;
+				}
+				a = 0;
+				while (a < i)
+				{
+					_putchar(35);
+					a++;
+				}
+				_putchar('\n');
+				i++;
 			}
-			a = 0;
-			while (a < i)
-			{
-				_putchar(35);
-				a++;
-			}
-			_putchar('\n');
-			i++;
 		}
 	}
 	else
