@@ -9,7 +9,7 @@
 int main(void)
 {
 	long int max = -1, n = 612852475143;
-	i = 3;
+	int i = 3;
 
 
 	while (n % 2 == 0)
