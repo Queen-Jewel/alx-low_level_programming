@@ -9,7 +9,6 @@
 int main(void)
 {
 	long int max = -1, n = 612852475143;
-
 	i = 3;
 
 
