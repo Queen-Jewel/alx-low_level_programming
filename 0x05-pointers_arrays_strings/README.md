@@ -4,4 +4,5 @@ a function that returns the length of a string.
 a function that prints a string, followed by a new line, to stdout.
 
 
+a function that prints a string, in reverse, followed by a new line.
 
