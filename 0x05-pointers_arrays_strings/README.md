@@ -5,4 +5,5 @@ a function that prints a string, followed by a new line, to stdout.
 
 
 a function that prints a string, in reverse, followed by a new line.
+a function that reverses a string.
 
