@@ -1,4 +1,4 @@
-#incude "main.h"
+#include "main.h"
 
 /**
  * is_palindrome - returns 1 if a string is a palindrome and 0 if not
@@ -46,4 +46,5 @@ int palindrome_check(char *s, int len, int i)
 		return (0);
 	if (i < len)
 		return (palindrome_check(s, --len, ++i));
-	return (1);}
+	return (1);
+}
