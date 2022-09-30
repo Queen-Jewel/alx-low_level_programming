@@ -4,12 +4,12 @@
  * main - prints name of the program
  * @argc: argument count
  * @argv: argument vector
- * Return: int
+ * Return: this return to 0
  */
 
 int main(int argc, char *argv[])
 {
-	(void)argc;
 	printf("%s\n", argv[0]);
+	(void)argc;
 	return (0);
 }
