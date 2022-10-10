@@ -1,5 +1,3 @@
-#include <stddef.h>
-
 #ifndef STRTYP
 
 #define STRTYP
