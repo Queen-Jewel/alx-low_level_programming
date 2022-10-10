@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * new_dog - new element of type struct dog
+ * *new_dog - new element of type struct dog
  * @name: name of new dog
  * @age: age of new dog
  * @owner: owner of new dog
@@ -42,8 +42,8 @@ dog_t *new_dog(char *name, float age, char *owner)
 /**
  * *_strcpy - copies string to given memory location
  * @dest: where the string needs to be copied
- * @src: where the string is
- * Return: char
+ *  @src: where the string is
+ *  Return: char
  */
 
 char *_strcpy(char *dest, char *src)
