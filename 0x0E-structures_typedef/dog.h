@@ -1,8 +1,8 @@
 #include <stddef.h>
 
-#ifndef DOG_H
+#ifndef STRTYP
 
-#define DOG_H
+#define STRTYP
 
 /**
  * struct dog - contains dog information
@@ -34,4 +34,4 @@ char *_strcpy(char *dest, char *src);
 
 void free_dog(dog_t *d);
 
-#endif /* DOG_H */
+#endif /* STRTYP */
