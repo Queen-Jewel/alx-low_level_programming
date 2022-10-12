@@ -4,7 +4,7 @@
  * print_name - prints name through passed in function pointer
  * @name: character string
  * @f: function pointer
- * Return: nothing
+ * Return: void
  */
 
 void print_name(char *name, void (*f)(char *))
